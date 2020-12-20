@@ -2,7 +2,7 @@
 id: 4a6cfd75-14ae-4d01-973a-fa689efa3264
 title: Root
 desc: ''
-updated: 1608475322735
+updated: 1608480901951
 created: 1607958421206
 ---
 
@@ -28,6 +28,20 @@ and also try to travel back in time and excavate what I have been dumping into m
 
 ## [modulargrid](https://www.modulargrid.net/e/racks/command_center/153381)
 
-## Notes on modules
+## Notes on modular synthesis
 
 ((ref: [[sample-and-hold]]))
+
+## Notes on DIY
+
+- migrate build logs from notion
+    - do I even need build logs?
+
+# Art
+
+## Project
+- Accidental Contraptions
+
+## Techniques
+
+## Idea backlog
