@@ -2,6 +2,10 @@ version: 1
 imports: []
 schemas:
   - id: root
-    children: []
+    children:
+      - actionables
+      - readables
     title: root
     parent: root
+  - id: actionables
+  - id: readables

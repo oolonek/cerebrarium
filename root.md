@@ -2,7 +2,7 @@
 id: 4a6cfd75-14ae-4d01-973a-fa689efa3264
 title: Root
 desc: ''
-updated: 1608480901951
+updated: 1608895234067
 created: 1607958421206
 ---
 
@@ -17,7 +17,7 @@ I have been consuming information passively for too long.
 This is my current attempt to _**actively consume**_ information from now on,
 and also try to travel back in time and excavate what I have been dumping into my head without any consideration.
 
-# Strategy
+# Workflow
 
 1. Start with the [Amoeba](https://www.dendron.so/notes/e780000d-c784-4945-8e42-35218a3ecf10.html) pattern.
 2. Using the Ameoba method, let note creation come naturally.
@@ -30,12 +30,7 @@ and also try to travel back in time and excavate what I have been dumping into m
 
 ## Notes on modular synthesis
 
-((ref: [[sample-and-hold]]))
-
 ## Notes on DIY
-
-- migrate build logs from notion
-    - do I even need build logs?
 
 # Art
 
@@ -45,3 +40,16 @@ and also try to travel back in time and excavate what I have been dumping into m
 ## Techniques
 
 ## Idea backlog
+
+# Software development
+
+## javascript/typescript
+
+### [lodash](https://lodash.com/)
+> A modern JavaScript utility library delivering modularity, performance & extras.
+
+- [online lodash tester](https://codepen.io/travist/full/jrBjBz/)
+
+### [jest](https://jestjs.io/)
+> Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly.
+
