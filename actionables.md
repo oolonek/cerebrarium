@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1608971087900
+updated: 1609005143626
 created: 1608877391650
 ---
 
@@ -33,10 +33,8 @@ created: 1608877391650
 
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic.
 
-
-## general
 - [x] make a reading list
-- [x] deprecate physical weekly note and move into singular dendron actionables.
+- [x] deprecate physical weekly note and move into singular actionables list.
     - [x] think about the workflow
 
 ## dev
@@ -54,16 +52,16 @@ created: 1608877391650
     - [ ] commit
     - [ ] push, PR
 - [ ] familiarize codebase
-- [ ] plan learning typescript
-- [ ] plan learning javascript / vscode dev tooling
+- [ ] typescript quick primer
+- [ ] javascript / vscode dev tooling quick primer
     - [ ] jest
     - [ ] lodash
     - [ ] lerna
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] dendron-11ty
-    - [ ] try out publishing with 11ty locally
-    - [ ] tinker with settings
+    - [x] try out publishing with 11ty locally
+    - [x] tinker with settings
     - [ ] publish to github pages
         - [ ] point cerebrarium.garden to github pages
 
@@ -73,13 +71,13 @@ created: 1608877391650
 
 ## modular synthesis
 
-### focused deepdive
-- [ ] plan eurorack focused deepdive
-
-### diy
+- [x] list owned modules
+- [ ] ~~start compiling modular synthesis knowledge base~~ be more specific
 - [x] build 4MS rotating clock divider
 - [ ] order parts for veils
+- [ ] start veils notes
 - [ ] order missing parts for teletype
+- [ ] start teletype notes
 
 ## art
-- [ ] start working on art notes
+- [x] add stub for project
