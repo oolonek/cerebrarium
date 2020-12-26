@@ -2,7 +2,7 @@
 id: 919a3a68-d78d-4403-aca5-ea6e722ca35b
 title: Cerebrarium
 desc: ''
-updated: 1608971696447
+updated: 1608981993112
 created: 1608971683570
 ---
 
@@ -12,10 +12,12 @@ created: 1608971683570
 
 > **Where I sow my cerebral seeds and tend to them.**
 
-I have been consuming information passively for too long.
-
-This is my current attempt to _**actively consume**_ information from now on,
+This is my current attempt to _**actively consume**_ information,
 and also try to travel back in time and excavate what I have been dumping into my head without any consideration.
+
+Most of the documents here will not make sense as they are working copies of my projects and ideas. I decided to share these publicly to facilitate easy sharing and **thinking out loud**
+
+I plan to keep more polished and complete posts in my [main website](https://markhyunikchoi.com) and use this place as a nursery for my thoughts.
 
 # Workflow
 
@@ -23,33 +25,3 @@ and also try to travel back in time and excavate what I have been dumping into m
 2. Using the Ameoba method, let note creation come naturally.
     - [dendron cheatsheet](https://www.dendron.so/notes/f9540bb6-7a5a-46db-ae7c-e1a606f28c73.html)
 3. Discover recurring structures and define schema later.
-
-# Eurorack
-
-## [modulargrid](https://www.modulargrid.net/e/racks/command_center/153381)
-
-## Notes on modular synthesis
-
-## Notes on DIY
-
-# Art
-
-## Project
-- Accidental Contraptions
-
-## Techniques
-
-## Idea backlog
-
-# Software development
-
-## javascript/typescript
-
-### [lodash](https://lodash.com/)
-> A modern JavaScript utility library delivering modularity, performance & extras.
-
-- [online lodash tester](https://codepen.io/travist/full/jrBjBz/)
-
-### [jest](https://jestjs.io/)
-> Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly.
-
