@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609005143626
+updated: 1609051956399
 created: 1608877391650
 ---
 
@@ -31,11 +31,16 @@ created: 1608877391650
 
 ## inbox
 
-> Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic.
+> Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
+Task that need more breaking down also belongs here until it becomes actionable.
 
 - [x] make a reading list
 - [x] deprecate physical weekly note and move into singular actionables list.
     - [x] think about the workflow
+- [ ] start compiling modular synthesis knowledge base
+    - be more specific
+
+
 
 ## dev
 
@@ -44,14 +49,20 @@ created: 1608877391650
 - [x] set up dev environment
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
-    - [x] familiarize pods
     - [ ] add test case for `MarkdownPublishPod`
         - [ ] learn how tests are set up
+        - [ ] write tests in `MarkdownPod.spec.ts`
     - [ ] cleanup
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
 - [ ] familiarize codebase
+    - [ ] familiarize pods
+        - [ ] take a look at 
+            - [ ] `MarkdownPods.ts`
+            - [ ] `basev2.ts`
+            - [ ] `markdown.ts`
+            - [ ] `utilsv2.ts`
 - [ ] typescript quick primer
 - [ ] javascript / vscode dev tooling quick primer
     - [ ] jest
@@ -72,7 +83,6 @@ created: 1608877391650
 ## modular synthesis
 
 - [x] list owned modules
-- [ ] ~~start compiling modular synthesis knowledge base~~ be more specific
 - [x] build 4MS rotating clock divider
 - [ ] order parts for veils
 - [ ] start veils notes
