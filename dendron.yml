@@ -7,3 +7,10 @@ site:
         - cerebrarium
     siteRootDir: docs
     usePrettyRefs: true
+    gh_edit_repository: "https://github.com/hikchoi/cerebrarium"
+    logo: "vault/assets/images/2020-12-20-14-44-18.png"
+    siteUrl: "https://cerebrarium.garden"
+    githubCname: "cerebrarium.garden"
+    title: cerebrarium
+    author: "hikchoi"
+    
