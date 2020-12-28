@@ -2,7 +2,7 @@
 id: fc872c52-b139-4f32-80d5-9fcf05b41621
 title: Music
 desc: ''
-updated: 1608984996690
+updated: 1609160508196
 created: 1608979394255
 ---
 # Music
@@ -62,3 +62,4 @@ In no particular order
     - Backlight switch
     - Attenuation (faders? knobs?)
     - doesn't have to be eurorack format
+- Learn how to order pcbs / FR4 panels from JLCPCB

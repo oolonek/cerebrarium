@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609051956399
+updated: 1609160616791
 created: 1608877391650
 ---
 
@@ -20,6 +20,10 @@ created: 1608877391650
 6. Do it
 7. At the end of the day (or when it is necessary), check what has been done
 8. Every Sunday afternoon, go through the list and clean it up.
+    8.1 Delete all finished tasks.
+        - Keep subtasks until parent task is finished.
+    8.2 If all tasks have been depleted for each category, first think consider if it has more tasks to be done
+    8.3 If so, add those tasks. Otherwise, remove category.
 ```
 
 ## notes
@@ -34,9 +38,6 @@ created: 1608877391650
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
 
-- [x] make a reading list
-- [x] deprecate physical weekly note and move into singular actionables list.
-    - [x] think about the workflow
 - [ ] start compiling modular synthesis knowledge base
     - be more specific
 
@@ -45,8 +46,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
 ## dev
 
 ### dendron
-- [x] fork repo
-- [x] set up dev environment
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
     - [ ] add test case for `MarkdownPublishPod`
@@ -57,7 +56,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] commit
     - [ ] push, PR
 - [ ] familiarize codebase
-    - [ ] familiarize pods
+    - [ ] pods
         - [ ] take a look at 
             - [ ] `MarkdownPods.ts`
             - [ ] `basev2.ts`
@@ -70,11 +69,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] lerna
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
-- [ ] dendron-11ty
-    - [x] try out publishing with 11ty locally
-    - [x] tinker with settings
-    - [ ] publish to github pages
-        - [ ] point cerebrarium.garden to github pages
+- [ ] deploy again with actionables and readables.
+- [ ] think about ways to do daily publishing
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
 - [ ] deploy article changes
@@ -88,6 +84,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] start veils notes
 - [ ] order missing parts for teletype
 - [ ] start teletype notes
+- [ ] learn how to order PCB from JLCPCB
 
 ## art
 - [x] add stub for project
