@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609160616791
+updated: 1609252967577
 created: 1608877391650
 ---
 
@@ -11,7 +11,6 @@ created: 1608877391650
 > A single place that lists immediately actionable tasks from various task.
 
 ## workflow
-```
 1. Add all actionable tasks into the inbox
 2. Chop the tasks down to bite-size chunks
 3. Move tasks into appropriate headings
@@ -20,11 +19,10 @@ created: 1608877391650
 6. Do it
 7. At the end of the day (or when it is necessary), check what has been done
 8. Every Sunday afternoon, go through the list and clean it up.
-    8.1 Delete all finished tasks.
+    - Delete all finished tasks.
         - Keep subtasks until parent task is finished.
-    8.2 If all tasks have been depleted for each category, first think consider if it has more tasks to be done
-    8.3 If so, add those tasks. Otherwise, remove category.
-```
+    - If all tasks have been depleted for each category, first think consider if it has more tasks to be done
+    - If so, add those tasks. Otherwise, remove category.
 
 ## notes
 1. Keep this list as flat as possible. 
@@ -37,10 +35,6 @@ created: 1608877391650
 
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
-
-- [ ] start compiling modular synthesis knowledge base
-    - be more specific
-
 
 
 ## dev
@@ -70,19 +64,23 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] deploy again with actionables and readables.
+    - [ ] figure out why indentation is wonky with checkboxes
 - [ ] think about ways to do daily publishing
+- [ ] swap out favicon
+- [ ] look into 11ty theming
+
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
-- [ ] deploy article changes
-- [ ] link cerebrarium on landing
+- [x] deploy article changes
+- [x] link cerebrarium on landing
 
 ## modular synthesis
 
 - [x] list owned modules
 - [x] build 4MS rotating clock divider
-- [ ] order parts for veils
+- [x] order parts for veils
 - [ ] start veils notes
-- [ ] order missing parts for teletype
+- [x] order missing parts for teletype
 - [ ] start teletype notes
 - [ ] learn how to order PCB from JLCPCB
 

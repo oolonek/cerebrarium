@@ -5,6 +5,8 @@ site:
     copyAssets: true
     siteHierarchies:
         - cerebrarium
+        # - actionables
+        # - readables
     siteRootDir: docs
     usePrettyRefs: true
     gh_edit_repository: "https://github.com/hikchoi/cerebrarium"
