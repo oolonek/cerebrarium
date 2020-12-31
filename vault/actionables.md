@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609252967577
+updated: 1609410303748
 created: 1608877391650
 ---
 
@@ -61,6 +61,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] jest
     - [ ] lodash
     - [ ] lerna
+- [ ] custom css for markdown preview
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] deploy again with actionables and readables.
@@ -68,6 +69,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] think about ways to do daily publishing
 - [ ] swap out favicon
 - [ ] look into 11ty theming
+
 
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
@@ -83,6 +85,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [x] order missing parts for teletype
 - [ ] start teletype notes
 - [ ] learn how to order PCB from JLCPCB
+- [ ] start RND step notes
+- [ ] start mutable instruments peaks note
 
 ## art
 - [x] add stub for project
