@@ -2,24 +2,24 @@
 id: 8eb1b18c-88cb-4b02-88cf-f0675b395131
 title: Veils
 desc: ''
-updated: 1609423837795
+updated: 1609518382318
 created: 1609401541122
 ---
 # Mutable Instruments Veils 1
 
 [Official website](https://mutable-instruments.net/modules/veils1/)
 
-- Veils provides four [[vca]] with an adjustable response curve.
+- Veils provides four [[vcas|cerebrarium.music.vca]] with an adjustable response curve.
 
 # build log
 
 - purchased panels and pcb on 2020-11-30
-- purchased components on 2020-12-29
+- purchased components on 2020-12-29 (mouser)
 
 # notes
 
 **2020-12-31 8:00 PM**
-It seems like the Eurorack gods don't want me to have [[vcas|VCA]].
+It seems like the Eurorack gods don't want me to have [[vcas|vca]].
 
 Every time I decide to build a new module I forget that I need a VCA. Maybe it's because I find it boring? It's an essential part of a modular system but on paper it's such a simple device.
 
@@ -46,5 +46,5 @@ _blemish panel vs sanded panel_
 
 The finish isn't perfect, but I like the gritty look of the raw panels. I could keep it as is or polish it more. Maybe sticker bomb it? It will be a good panel to experiment stuff on.
 
-I should look into making my own [[panels]]
+I should look into making my own [[cerebrarium.music.DIY.panels]]
 

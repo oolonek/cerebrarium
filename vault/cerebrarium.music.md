@@ -2,7 +2,7 @@
 id: fc872c52-b139-4f32-80d5-9fcf05b41621
 title: Music
 desc: ''
-updated: 1609401537636
+updated: 1609509832598
 created: 1608979394255
 ---
 # Music
@@ -42,15 +42,17 @@ In chronological order ignoring duplicates
 - 4MS Passive Mult
 - 4MS Rotating Clock Divider
 
+### In progress
+- [[Mutable Instruments Veils|cerebrarium.music.veils]]
+- [[Monome Teletype|cerebrarium.music.teletype]]
+
 ### Backlog
 
 In no particular order
 
-- Monome Teletype
 - Monome Norns (shield)
 - Mutable Instruments Plaits
 - Mutable Instruments Stages
-- Mutable Instruments Veils
 - Mutable Instrument Kinks
 - Extralife Instruments Super Sixteen
 

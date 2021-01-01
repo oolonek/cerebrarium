@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609473336477
+updated: 1609516905025
 created: 1608877391650
 ---
 
@@ -66,8 +66,10 @@ Task that need more breaking down also belongs here until it becomes actionable.
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] deploy again with actionables and readables.
     - [ ] figure out why indentation is wonky with checkboxes
+        - [ ] diagnose problem
+        - [ ] report issue on gh if necessary
 - [ ] think about ways to do daily publishing
-- [ ] swap out favicon
+- [x] swap out favicon
 - [ ] look into 11ty theming
 
 
@@ -83,7 +85,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [x] order parts for veils
 - [x] start veils notes
 - [x] order missing parts for teletype
-- [ ] start teletype notes
+- [x] start teletype notes
 - [ ] learn how to order PCB from JLCPCB
 - [ ] start RND step notes
 - [ ] start mutable instruments peaks note
@@ -93,10 +95,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [x] add stub for project
 
 
-- test
-    - [ ] indented
-        - [ ] again
-
-- test
-    - indented
-        - indented
+```bash
+this is a bash code block
+```
