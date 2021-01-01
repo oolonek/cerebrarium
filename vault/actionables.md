@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609410303748
+updated: 1609472605344
 created: 1608877391650
 ---
 
@@ -81,12 +81,13 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [x] list owned modules
 - [x] build 4MS rotating clock divider
 - [x] order parts for veils
-- [ ] start veils notes
+- [x] start veils notes
 - [x] order missing parts for teletype
 - [ ] start teletype notes
 - [ ] learn how to order PCB from JLCPCB
 - [ ] start RND step notes
 - [ ] start mutable instruments peaks note
+- [ ] refactor diy log
 
 ## art
 - [x] add stub for project
