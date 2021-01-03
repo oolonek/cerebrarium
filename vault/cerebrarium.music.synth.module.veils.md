@@ -9,7 +9,7 @@ created: 1609401541122
 
 [Official website](https://mutable-instruments.net/modules/veils1/)
 
-- Veils provides four [[vcas|cerebrarium.music.vca]] with an adjustable response curve.
+- Veils provides four [[vcas|cerebrarium.music.concepts.vca]] with an adjustable response curve.
 
 # build log
 

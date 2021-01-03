@@ -2,7 +2,7 @@
 id: 489ec572-4530-4535-8ffd-7e3ea8b336aa
 title: VCA
 desc: ''
-updated: 1609517776530
+updated: 1609673387408
 created: 1609401720988
 ---
 # VCA
@@ -17,6 +17,6 @@ created: 1609401720988
 
 ### Attenuator / Attenuverter ?
 
-- VCAs control the [[cerebrarium.music.amplitude]] of a signal by varying control voltage. 
-- Audible or not it doesn't matter.
+- VCAs control the [[amplitude|cerebrarium.music.concepts.amplitude]] of a signal by varying control voltage. 
+
 
