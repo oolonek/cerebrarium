@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609524326590
+updated: 1609638864253
 created: 1608877391650
 ---
 
@@ -39,6 +39,20 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ## dev
 
+### learning
+- [ ] Go through typescript handbook.
+    - [ ] typescript tooling in 5 minutes
+    - [ ] TS for the New Programmer
+    - [ ] typescript for JS Programmers
+    - [ ] Basic Types
+    - [ ] Interfaces
+    - [ ] Functions
+    - [ ] Literal Types
+    - [ ] Unions and Intersection Types
+    - [ ] Classes
+    - [ ] Enums
+    - [ ] Generics
+
 ### dendron
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
@@ -49,7 +63,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
-- [ ] familiarize codebase
+    - [ ] pairing session w/ kevin
+- [ ] familiarize Dendron internals
     - [ ] pods
         - [ ] take a look at 
             - [ ] `MarkdownPods.ts`
@@ -62,21 +77,36 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] lodash
     - [ ] lerna
 - [ ] custom css for markdown preview
+    - [ ] figure out how to make it follow current theme
+    - Maybe just keep it as is? :thinking:
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
-- [ ] deploy again with actionables and readables.
-    - [ ] figure out why indentation is wonky with checkboxes
-        - [ ] diagnose problem
-        - [ ] report issue on gh if necessary
+- [x] deploy again with actionables and readables.
+    - [x] figure out why indentation is wonky with checkboxes
+        - [x] diagnose problem
+        - [ ] ~~report issue on gh if necessary~~
 - [ ] think about ways to do daily publishing
 - [x] swap out favicon
 - [ ] look into 11ty theming
 
-
-
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
-- [x] deploy article changes
-- [x] link cerebrarium on landing
+- housekeeping
+    - [ ] merge separate post tag index components into one layout components
+    - [ ] refactor image related components
+        * glyphs
+        * mdx image
+        * logo
+    - [ ] look into theme-ui
+    - [ ] SEO optimization
+    - [ ] add custom 404 page
+    - [ ] clean up scattered layout components
+- feature
+    - [ ] bilingual pages
+    - [ ] dark mode
+- misc.
+    - [x] deploy article changes
+    - [x] link cerebrarium on landing
+
 
 ## modular synthesis
 
