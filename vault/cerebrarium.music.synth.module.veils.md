@@ -46,4 +46,5 @@ _blemish panel vs sanded panel_
 
 The finish isn't perfect, but I like the gritty look of the raw panels. I could keep it as is or polish it more. Maybe sticker bomb it? It will be a good panel to experiment stuff on.
 
-I should look into making my own [[cerebrarium.music.DIY.panels]]
+I should look into making my own [[cerebrarium.music.synth.diy.panels]]
+
