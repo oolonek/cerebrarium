@@ -2,7 +2,7 @@
 id: 8eb1b18c-88cb-4b02-88cf-f0675b395131
 title: Veils
 desc: ''
-updated: 1609630162802
+updated: 1609674294961
 created: 1609401541122
 ---
 # Mutable Instruments Veils 1
@@ -46,5 +46,5 @@ _blemish panel vs sanded panel_
 
 The finish isn't perfect, but I like the gritty look of the raw panels. I could keep it as is or polish it more. Maybe sticker bomb it? It will be a good panel to experiment stuff on.
 
-I should look into making my own [[cerebrarium.music.synth.diy.panels]]
+I should look into making my own [[panels|cerebrarium.music.synth.diy.panels]]
 
