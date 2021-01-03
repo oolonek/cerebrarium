@@ -13,6 +13,11 @@
         "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
         "editor.snippetSuggestions": "inline",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
         // "workbench.editor.showTabs": false,
