@@ -1,9 +1,9 @@
 ---
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
-desc: ''
+desc: 
 updated: 1609638864253
-created: 1608877391650
+modified: 2021-01-05T23:18:23+09:00
 ---
 
 # Actionables
@@ -11,6 +11,7 @@ created: 1608877391650
 > A single place that lists immediately actionable tasks from various task.
 
 ## workflow
+```
 1. Add all actionable tasks into the inbox
 2. Chop the tasks down to bite-size chunks
 3. Move tasks into appropriate headings
@@ -19,10 +20,7 @@ created: 1608877391650
 6. Do it
 7. At the end of the day (or when it is necessary), check what has been done
 8. Every Sunday afternoon, go through the list and clean it up.
-    - Delete all finished tasks.
-        - Keep subtasks until parent task is finished.
-    - If all tasks have been depleted for each category, first think consider if it has more tasks to be done
-    - If so, add those tasks. Otherwise, remove category.
+```
 
 ## notes
 1. Keep this list as flat as possible. 
@@ -36,24 +34,19 @@ created: 1608877391650
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
 
+- [x] make a reading list
+- [x] deprecate physical weekly note and move into singular actionables list.
+    - [x] think about the workflow
+- [ ] start compiling modular synthesis knowledge base
+    - be more specific
+
+
 
 ## dev
 
-### learning
-- [ ] Go through typescript handbook.
-    - [ ] typescript tooling in 5 minutes
-    - [ ] TS for the New Programmer
-    - [ ] typescript for JS Programmers
-    - [ ] Basic Types
-    - [ ] Interfaces
-    - [ ] Functions
-    - [ ] Literal Types
-    - [ ] Unions and Intersection Types
-    - [ ] Classes
-    - [ ] Enums
-    - [ ] Generics
-
 ### dendron
+- [x] fork repo
+- [x] set up dev environment
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
     - [ ] add test case for `MarkdownPublishPod`
@@ -63,9 +56,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
-    - [ ] pairing session w/ kevin
-- [ ] familiarize Dendron internals
-    - [ ] pods
+- [ ] familiarize codebase
+    - [ ] familiarize pods
         - [ ] take a look at 
             - [ ] `MarkdownPods.ts`
             - [ ] `basev2.ts`
@@ -76,50 +68,26 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] jest
     - [ ] lodash
     - [ ] lerna
-- [ ] custom css for markdown preview
-    - [ ] figure out how to make it follow current theme
-    - Maybe just keep it as is? :thinking:
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
-- [x] deploy again with actionables and readables.
-    - [x] figure out why indentation is wonky with checkboxes
-        - [x] diagnose problem
-        - [ ] ~~report issue on gh if necessary~~
-- [ ] think about ways to do daily publishing
-- [x] swap out favicon
-- [ ] look into 11ty theming
+- [ ] dendron-11ty
+    - [x] try out publishing with 11ty locally
+    - [x] tinker with settings
+    - [ ] publish to github pages
+        - [ ] point cerebrarium.garden to github pages
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
-- housekeeping
-    - [ ] merge separate post tag index components into one layout components
-    - [ ] refactor image related components
-        * glyphs
-        * mdx image
-        * logo
-    - [ ] look into theme-ui
-    - [ ] SEO optimization
-    - [ ] add custom 404 page
-    - [ ] clean up scattered layout components
-- feature
-    - [ ] bilingual pages
-    - [ ] dark mode
-- misc.
-    - [x] deploy article changes
-    - [x] link cerebrarium on landing
-
+- [ ] deploy article changes
+- [ ] link cerebrarium on landing
 
 ## modular synthesis
 
 - [x] list owned modules
 - [x] build 4MS rotating clock divider
-- [x] order parts for veils
-- [x] start veils notes
-- [x] order missing parts for teletype
-- [x] start teletype notes
-- [ ] learn how to order PCB from JLCPCB
-- [ ] start RND step notes
-- [ ] start mutable instruments peaks note
-- [ ] refactor diy log
+- [ ] order parts for veils
+- [ ] start veils notes
+- [ ] order missing parts for teletype
+- [ ] start teletype notes
 
 ## art
 - [x] add stub for project
