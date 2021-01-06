@@ -1,9 +1,15 @@
 ---
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
+<<<<<<< HEAD
 desc: ''
-updated: 1609942463342
+updated: 1609943048339
 created: 1608877391650
+=======
+desc: 
+updated: 1609638864253
+modified: 2021-01-05T23:18:23+09:00
+>>>>>>> 1ece00b265e5654dd4aae8018688b153270c947a
 ---
 
 # Actionables
@@ -11,6 +17,7 @@ created: 1608877391650
 > A single place that lists immediately actionable tasks from various task.
 
 ## workflow
+```
 1. Add all actionable tasks into the inbox
 2. Chop the tasks down to bite-size chunks
 3. Move tasks into appropriate headings
@@ -19,10 +26,7 @@ created: 1608877391650
 6. Do it
 7. At the end of the day (or when it is necessary), check what has been done
 8. Every Sunday afternoon, go through the list and clean it up.
-    - Delete all finished tasks.
-        - Keep subtasks until parent task is finished.
-    - If all tasks have been depleted for each category, first think consider if it has more tasks to be done
-    - If so, add those tasks. Otherwise, remove category.
+```
 
 ## notes
 1. Keep this list as flat as possible. 
@@ -36,8 +40,13 @@ created: 1608877391650
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
 
+- [x] make a reading list
+- [x] deprecate physical weekly note and move into singular actionables list.
+    - [x] think about the workflow
+- [ ] start compiling modular synthesis knowledge base
+    - be more specific
 
-## dev
+
 
 ### learning
 - [ ] Go through typescript handbook.
@@ -54,6 +63,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] Generics
 
 ### dendron
+- [x] fork repo
+- [x] set up dev environment
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
     - [ ] add test case for `MarkdownPublishPod`
