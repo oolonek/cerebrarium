@@ -1,15 +1,9 @@
 ---
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
-<<<<<<< HEAD
 desc: ''
-updated: 1609943048339
+updated: 1609943352223
 created: 1608877391650
-=======
-desc: 
-updated: 1609638864253
-modified: 2021-01-05T23:18:23+09:00
->>>>>>> 1ece00b265e5654dd4aae8018688b153270c947a
 ---
 
 # Actionables
