@@ -2,7 +2,7 @@
 id: 8eb1b18c-88cb-4b02-88cf-f0675b395131
 title: Veils
 desc: ''
-updated: 1609674294961
+updated: 1609942746112
 created: 1609401541122
 ---
 # Mutable Instruments Veils 1
@@ -48,3 +48,9 @@ The finish isn't perfect, but I like the gritty look of the raw panels. I could 
 
 I should look into making my own [[panels|cerebrarium.music.synth.diy.panels]]
 
+2021-01-06 11:15 PM
+The components arrived. 0402 components are... way too small.
+I'll wait until the weekend to try building one of the veils.
+Looks like the 0603 adapted pads have just enough space to fit a 0402 components between them, so it's definitely possible to use the original size.
+I tried picking one of the resistors up with a tweezer and to my surprise, I think the static makes it stick to the tweezers. I guess they aren't ESD like they are advertized?
+I always clean them with IPA so it's not sticking onto the residual flux for sure.

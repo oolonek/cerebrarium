@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609638864253
+updated: 1609942463342
 created: 1608877391650
 ---
 
@@ -41,11 +41,11 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ### learning
 - [ ] Go through typescript handbook.
-    - [ ] typescript tooling in 5 minutes
-    - [ ] TS for the New Programmer
-    - [ ] typescript for JS Programmers
-    - [ ] Basic Types
-    - [ ] Interfaces
+    - [x] typescript tooling in 5 minutes
+    - [x] TS for the New Programmer
+    - [x] typescript for JS Programmers
+    - [x] Basic Types
+    - [x] Interfaces
     - [ ] Functions
     - [ ] Literal Types
     - [ ] Unions and Intersection Types
@@ -63,7 +63,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
-    - [ ] pairing session w/ kevin
+    - [ ] schedule pairing session w/ kevin
 - [ ] familiarize Dendron internals
     - [ ] pods
         - [ ] take a look at 
@@ -71,22 +71,13 @@ Task that need more breaking down also belongs here until it becomes actionable.
             - [ ] `basev2.ts`
             - [ ] `markdown.ts`
             - [ ] `utilsv2.ts`
-- [ ] typescript quick primer
-- [ ] javascript / vscode dev tooling quick primer
-    - [ ] jest
-    - [ ] lodash
-    - [ ] lerna
+        - [ ] check updated docs and comments
 - [ ] custom css for markdown preview
     - [ ] figure out how to make it follow current theme
     - Maybe just keep it as is? :thinking:
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
-- [x] deploy again with actionables and readables.
-    - [x] figure out why indentation is wonky with checkboxes
-        - [x] diagnose problem
-        - [ ] ~~report issue on gh if necessary~~
 - [ ] think about ways to do daily publishing
-- [x] swap out favicon
 - [ ] look into 11ty theming
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
@@ -103,23 +94,10 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - feature
     - [ ] bilingual pages
     - [ ] dark mode
-- misc.
-    - [x] deploy article changes
-    - [x] link cerebrarium on landing
 
 
 ## modular synthesis
-
-- [x] list owned modules
-- [x] build 4MS rotating clock divider
-- [x] order parts for veils
-- [x] start veils notes
-- [x] order missing parts for teletype
-- [x] start teletype notes
 - [ ] learn how to order PCB from JLCPCB
-- [ ] start RND step notes
-- [ ] start mutable instruments peaks note
-- [ ] refactor diy log
 
 ## art
-- [x] add stub for project
+- [ ] plan out Accidental Contraptions Q1 roadmap
