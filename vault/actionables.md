@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1609943352223
+updated: 1610068935384
 created: 1608877391650
 ---
 
@@ -34,13 +34,7 @@ created: 1608877391650
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
 
-- [x] make a reading list
-- [x] deprecate physical weekly note and move into singular actionables list.
-    - [x] think about the workflow
-- [ ] start compiling modular synthesis knowledge base
-    - be more specific
-
-
+- [ ] work on sleep notes
 
 ### learning
 - [ ] Go through typescript handbook.
@@ -49,10 +43,10 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [x] typescript for JS Programmers
     - [x] Basic Types
     - [x] Interfaces
-    - [ ] Functions
-    - [ ] Literal Types
-    - [ ] Unions and Intersection Types
-    - [ ] Classes
+    - [x] Functions
+    - [x] Literal Types
+    - [x] Unions and Intersection Types
+    - [x] Classes
     - [ ] Enums
     - [ ] Generics
 
@@ -102,7 +96,25 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 
 ## modular synthesis
+- [ ] plan focused sessions for learning currently owned modules
+
+## DIY
 - [ ] learn how to order PCB from JLCPCB
+    - [ ] FR4 panels
+- [ ] research aluminum panels
+    - [ ] purchasing sheets
+    - [ ] drilling holes
+        - [ ] drill bits
+        - [ ] power drill
+    - [ ] processing surface
+- Veils build
+    - [ ] sort components
+    - [ ] build
+- Tool notes
+    - [ ] soldering iron
+    - [ ] reflow plate
+    - [ ] tweezers
+
 
 ## art
 - [ ] plan out Accidental Contraptions Q1 roadmap

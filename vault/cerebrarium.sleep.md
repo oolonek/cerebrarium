@@ -2,7 +2,7 @@
 id: df8e2438-1668-4dcc-8113-cd4189960aa8
 title: Sleep
 desc: ''
-updated: 1609942950011
+updated: 1609972158178
 created: 1609854484581
 ---
 
@@ -15,4 +15,5 @@ created: 1609854484581
     - I am aware that it is a trade-off.
     - This is my monkey mind favoring quantity of time spent awake than the quality of time spent awake.
 
-## Research
+## Notes
+
