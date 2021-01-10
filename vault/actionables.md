@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610068935384
+updated: 1610292029277
 created: 1608877391650
 ---
 
@@ -37,22 +37,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] work on sleep notes
 
 ### learning
-- [ ] Go through typescript handbook.
-    - [x] typescript tooling in 5 minutes
-    - [x] TS for the New Programmer
-    - [x] typescript for JS Programmers
-    - [x] Basic Types
-    - [x] Interfaces
-    - [x] Functions
-    - [x] Literal Types
-    - [x] Unions and Intersection Types
-    - [x] Classes
-    - [ ] Enums
-    - [ ] Generics
 
 ### dendron
-- [x] fork repo
-- [x] set up dev environment
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
     - [ ] add test case for `MarkdownPublishPod`
@@ -107,8 +93,9 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [ ] drill bits
         - [ ] power drill
     - [ ] processing surface
-- Veils build
-    - [ ] sort components
+- Teletype build
+    - [x] compile IBOM
+    - [x] sort components
     - [ ] build
 - Tool notes
     - [ ] soldering iron

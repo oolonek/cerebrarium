@@ -2,7 +2,7 @@
 id: 30fb9719-ad12-4d46-af75-6d357e348a92
 title: Teletype
 desc: ''
-updated: 1609942884835
+updated: 1610259927103
 created: 1609508666974
 ---
 # Monome Teletype
@@ -29,6 +29,11 @@ created: 1609508666974
 
 - Along with the [[Veils panels|cerebrarium.music.synth.module.veils]], the panels for these were scratched. Perpendicular to the aluminum brushing. I suspect poor packaging on the seller's end. It was shoved in a plastic baggy barely big enough to fit both the panels and the pcb with no other protection (just in a box with a dozen more pcbs and panels). I was more frustrated with the poor quality of the Veils panels so I didn't mention these. 
 
-2021-01-06 11:19 PM
+**2021-01-06 11:19 PM**
 - Rest of the components that were missing arrived with the veils component order.
 - I'm pretty excited for this build. It's pretty much a blank slate module that can do anything I can think of and code.
+
+**2021-01-10 2:53 PM**
+- Compiled the IBOM for Teletype with Eagle.
+- Sorted and checked all needed components.
+- **SW40 and ISP not needed.**
