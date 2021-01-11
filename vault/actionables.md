@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610292029277
+updated: 1610377402976
 created: 1608877391650
 ---
 
@@ -48,7 +48,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
-    - [ ] schedule pairing session w/ kevin
+    - [x] schedule pairing session w/ kevin
 - [ ] familiarize Dendron internals
     - [ ] pods
         - [ ] take a look at 
@@ -57,6 +57,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
             - [ ] `markdown.ts`
             - [ ] `utilsv2.ts`
         - [ ] check updated docs and comments
+            - [ ] make note as you dig into the code
+    
 - [ ] custom css for markdown preview
     - [ ] figure out how to make it follow current theme
     - Maybe just keep it as is? :thinking:
@@ -83,10 +85,15 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ## modular synthesis
 - [ ] plan focused sessions for learning currently owned modules
+    - [ ] drum synthesis
+        - [ ] kick drum
+    - [ ] 0-coast
+        - [ ] each section
 
 ## DIY
 - [ ] learn how to order PCB from JLCPCB
     - [ ] FR4 panels
+        - [ ] design with figma and inkscape (panel design plugin)
 - [ ] research aluminum panels
     - [ ] purchasing sheets
     - [ ] drilling holes
@@ -96,6 +103,9 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - Teletype build
     - [x] compile IBOM
     - [x] sort components
+    - [ ] build
+- Veils build (second)
+    - [ ] sand down panel
     - [ ] build
 - Tool notes
     - [ ] soldering iron
