@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1610376788570
+updated: 1610408341783
 created: 1609631769094
 ---
 
@@ -33,5 +33,18 @@ created: 1609631769094
     - `runLegacyMultiWorkspaceTest`
     - These set up mocks for single/multi vault testing.
         - example : [RenameNoteV2.test.ts](https://github.com/dendronhq/dendron/blob/master/packages/plugin-core/src/test/suite-integ/RenameNoteV2.test.ts#L131:L131)
+    - [arguments](https://github.com/dendronhq/dendron/blob/master/packages/plugin-core/src/test/testUtilsV3.ts#L70:L70)
+        - `ctx`
+            - [vscode extension context](https://code.visualstudio.com/api/references/vscode-api#ExtensionContext)
+            - collection of utilities private to an extension
+        - `preSetupHook`
+            - runs before init
+        - `postSetupHook`
+            - runs after init
+        - `preActivateHook`
+            - runs befor workspace activation
+        - `postActivateHook`
+            - 
+            
 - [runJestHarnessV2](https://github.com/dendronhq/dendron/blob/58b3587f1e44f54635f77f7395f7b756f18e0c84/packages/common-test-utils/src/utils.ts#L119)
     - use shimmed jest methods to assert equality of actual and expected test outcome.

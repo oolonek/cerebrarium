@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610377402976
+updated: 1610455488784
 created: 1608877391650
 ---
 
@@ -37,8 +37,13 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] work on sleep notes
 
 ### learning
+- vim
+    - [ ] install vim plugin on vscode
+    - [ ] figure out how to gradually introduce vim keybindings that I actually use
+    - [ ] try following [Stephen's workflow](https://discord.com/channels/717965437182410783/717965437182410786/798338552761024552)
 
 ### dendron
+
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
     - [ ] add test case for `MarkdownPublishPod`
@@ -59,9 +64,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [ ] check updated docs and comments
             - [ ] make note as you dig into the code
     
-- [ ] custom css for markdown preview
-    - [ ] figure out how to make it follow current theme
-    - Maybe just keep it as is? :thinking:
+- [x] custom css for markdown preview
+    - [x] figure out how to make it follow current theme
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] think about ways to do daily publishing

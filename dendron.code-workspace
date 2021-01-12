@@ -12,7 +12,6 @@
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
         "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
         "editor.snippetSuggestions": "inline",
-        // "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.quickSuggestions": {
             "other": true,
             "comments": false,
@@ -22,7 +21,11 @@
         "editor.tabCompletion": "on",
         // "workbench.editor.showTabs": false,
         "breadcrumbs.enabled": false,
-        "dendron.defaultLookupCreateBehavior": "selectionExtract"
+        "dendron.defaultLookupCreateBehavior": "selectionExtract",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "telemetry.enableTelemetry": false,
+        "markdown-preview-enhanced.previewTheme": "none.css",
+        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css"
     },
     "extensions": {
         "recommendations": [
