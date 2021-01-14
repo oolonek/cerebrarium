@@ -2,7 +2,7 @@
 id: f31efd32-73f6-4d5d-92aa-d99bf838eaa6
 title: Readables
 desc: ''
-updated: 1610406542867
+updated: 1610495571601
 created: 1608971100102
 ---
 
@@ -18,3 +18,4 @@ created: 1608971100102
 - [ ] https://code.visualstudio.com/api/get-started/your-first-extension
 - [ ] https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
 - [ ] https://basecamp.com/shapeup/shape-up.pdf
+- [ ] https://templates.netlify.com/template/eleventy-netlify-boilerplate/

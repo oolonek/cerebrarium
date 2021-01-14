@@ -19,10 +19,10 @@
         },
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        // "workbench.editor.showTabs": false,
+        "workbench.editor.showTabs": false,
         "breadcrumbs.enabled": false,
         "dendron.defaultLookupCreateBehavior": "selectionExtract",
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        // "editor.suggest.snippetsPreventQuickSuggestions": false,
         "telemetry.enableTelemetry": false,
         "markdown-preview-enhanced.previewTheme": "none.css",
         "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css"

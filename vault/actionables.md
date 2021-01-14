@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610455488784
+updated: 1610631122053
 created: 1608877391650
 ---
 
@@ -42,8 +42,10 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] figure out how to gradually introduce vim keybindings that I actually use
     - [ ] try following [Stephen's workflow](https://discord.com/channels/717965437182410783/717965437182410786/798338552761024552)
 
-### dendron
+### open source
+- [ ] read up on triaging
 
+#### dendron
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [x] swap out old md parser
     - [ ] add test case for `MarkdownPublishPod`
@@ -61,11 +63,21 @@ Task that need more breaking down also belongs here until it becomes actionable.
             - [ ] `basev2.ts`
             - [ ] `markdown.ts`
             - [ ] `utilsv2.ts`
-        - [ ] check updated docs and comments
-            - [ ] make note as you dig into the code
+        - [x] check updated docs and comments
+            - make note as you dig into the code
+    - [X] Pairing session prep
+        - [x] go over [test doc](https://dendron.so/notes/cb22bd36-d45a-4ffd-a31e-96c4b39cb7fb.html#anatomy-of-an-engine-test)
+        - [x] go over [design doc](https://dendron.so/notes/c160ddce-edec-4f6e-841b-418d6030fa37.html)
+    - [ ] Pairing session notes
+        - [ ] go over zoom recording
+        - [ ] take notes
     
 - [x] custom css for markdown preview
     - [x] figure out how to make it follow current theme
+    - [ ] tweak css
+        - [ ] codeblock styling
+        - [ ] checkbox styling
+        - [ ] anchor styling
 
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] think about ways to do daily publishing
@@ -85,6 +97,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - feature
     - [ ] bilingual pages
     - [ ] dark mode
+- [ ] port to 11ty?
+    - this is a lot of work. possibly a complete rework...
 
 
 ## modular synthesis
