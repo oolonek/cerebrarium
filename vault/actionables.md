@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610661091936
+updated: 1610721215402
 created: 1608877391650
 ---
 
@@ -69,8 +69,9 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [x] go over [test doc](https://dendron.so/notes/cb22bd36-d45a-4ffd-a31e-96c4b39cb7fb.html#anatomy-of-an-engine-test)
         - [x] go over [design doc](https://dendron.so/notes/c160ddce-edec-4f6e-841b-418d6030fa37.html)
     - [ ] Pairing session notes
-        - [ ] go over zoom recording
-        - [ ] take notes
+        - [x] go over zoom recording
+        - [x] take notes
+        - [ ] clean up notes and share
     
 - [x] custom css for markdown preview
     - [x] figure out how to make it follow current theme
@@ -82,6 +83,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 ### [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] think about ways to do daily publishing
 - [ ] look into 11ty theming
+- [ ] hide certain hierarchies from navbar (e.g. notes)
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
 - housekeeping
@@ -133,3 +135,5 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ## art
 - [ ] plan out Accidental Contraptions Q1 roadmap
+- [ ] notes on model painting
+    - [ ] Ma.K

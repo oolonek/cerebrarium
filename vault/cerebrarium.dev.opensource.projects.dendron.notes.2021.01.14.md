@@ -2,7 +2,7 @@
 id: 77d6a034-60cb-4894-bd0d-5e41c2a75797
 title: '14'
 desc: ''
-updated: 1610668964946
+updated: 1610709104567
 created: 1610579065274
 ---
 
@@ -44,4 +44,23 @@ cd bootstrap/scripts
 - Writing new tests
     - Start a new [describe block](https://jestjs.io/docs/en/api#describename-fn), and give it an appropriate name.
     - Write a new test case.
-        - 
+        - Use `runEngineTest`
+            - Multiple versions of this exists
+            - Make sure you import the right version of this.
+                - This is a typescript thing (?)
+        - There are preset scenarios for testing
+            - These are `PreSetupHookFunctions`
+            - They set up hard-coded notes in a vault so that they can be used in a test
+    - Quick jest tip: use snapshots to grab a test result (something long that you don't really want to construct manually), and use that for your assertions
+        - These can be found in `__tests__/__snapshots__`
+        - Don't forget to remove the snapshot code for the final test code if it isn't necessary.
+    - Clean up any unused code / warnings
+- After writing all the tests, check again by running the entire test suite
+    - Run `Test: bootstrap` found under `Task: Run Task`
+        - This will all tests in all packages.
+        - We want to do this before commiting because Dendron is a mono-repo, and most packages have dependencies on each other.
+        - We want to make sure our changes aren't breaking something elsewhere.
+        - Github action that will automatically do this for every push will be coming soon.
+- If you want to be more careful, you can also test the plugin itself at this point.
+    - The above step tests every single package that is not a plugin.
+    - To run tests for the plugin itself, run `Extension Integ Tests (plugin-core)`, which can be found in the Run pane.
