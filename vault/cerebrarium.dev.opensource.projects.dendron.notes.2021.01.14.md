@@ -2,7 +2,7 @@
 id: 77d6a034-60cb-4894-bd0d-5e41c2a75797
 title: '14'
 desc: ''
-updated: 1610582520415
+updated: 1610668964946
 created: 1610579065274
 ---
 
@@ -40,4 +40,8 @@ cd bootstrap/scripts
     - There will be a number of selections, marked with which project's test it will be running.
         - Select the one marked with `pods-core`, as we are testing pods today.
     - This will open a terminal and run `jest --watch` on the specific test we are interested in.
-        - Now
+        - Now jest will run all the tests for you every time you change your test code
+- Writing new tests
+    - Start a new [describe block](https://jestjs.io/docs/en/api#describename-fn), and give it an appropriate name.
+    - Write a new test case.
+        - 
