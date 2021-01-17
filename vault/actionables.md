@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610721215402
+updated: 1610892111694
 created: 1608877391650
 ---
 
@@ -55,7 +55,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
-    - [x] schedule pairing session w/ kevin
 - [ ] familiarize Dendron internals
     - [ ] pods
         - [ ] take a look at 
@@ -63,18 +62,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
             - [ ] `basev2.ts`
             - [ ] `markdown.ts`
             - [ ] `utilsv2.ts`
-        - [x] check updated docs and comments
-            - make note as you dig into the code
-    - [X] Pairing session prep
-        - [x] go over [test doc](https://dendron.so/notes/cb22bd36-d45a-4ffd-a31e-96c4b39cb7fb.html#anatomy-of-an-engine-test)
-        - [x] go over [design doc](https://dendron.so/notes/c160ddce-edec-4f6e-841b-418d6030fa37.html)
-    - [ ] Pairing session notes
-        - [x] go over zoom recording
-        - [x] take notes
-        - [ ] clean up notes and share
     
-- [x] custom css for markdown preview
-    - [x] figure out how to make it follow current theme
+- [ ] custom css for markdown preview
     - [ ] tweak css
         - [ ] codeblock styling
         - [ ] checkbox styling
@@ -84,6 +73,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] think about ways to do daily publishing
 - [ ] look into 11ty theming
 - [ ] hide certain hierarchies from navbar (e.g. notes)
+- [ ] refactor note hierarchy in [[cerebrarium.dev]]
 
 ### [markhyunikchoi.com](https://markhyunikchoi.com)
 - housekeeping
@@ -121,17 +111,16 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [ ] power drill
     - [ ] processing surface
 - Teletype build
-    - [x] compile IBOM
-    - [x] sort components
-    - [ ] build
+    - [ ] order substitute socket for OLED screen
+    - [ ] finish building
 - Veils build (second)
     - [ ] sand down panel
     - [ ] build
+- [ ] plan next build
 - Tool notes
     - [ ] soldering iron
     - [ ] reflow plate
     - [ ] tweezers
-
 
 ## art
 - [ ] plan out Accidental Contraptions Q1 roadmap
