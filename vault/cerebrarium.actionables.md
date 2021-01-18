@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1610892111694
+updated: 1610975421072
 created: 1608877391650
 ---
 
@@ -35,22 +35,25 @@ created: 1608877391650
 Task that need more breaking down also belongs here until it becomes actionable.
 
 - [ ] work on sleep notes
+- [ ] look into Phillps Hue
+    - [ ] lamp for bedroom
 
-### learning
+## learning
 - vim
-    - [ ] install vim plugin on vscode
+    - [x] install vim plugin on vscode
     - [ ] figure out how to gradually introduce vim keybindings that I actually use
     - [ ] try following [Stephen's workflow](https://discord.com/channels/717965437182410783/717965437182410786/798338552761024552)
 
-### open source
+## open source
 - [ ] read up on triaging
 
-#### dendron
+### dendron
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
-    - [x] swap out old md parser
+    - [ ] ~~swap out old md parser~~ kevin did this for the pairing session
     - [ ] add test case for `MarkdownPublishPod`
-        - [ ] learn how tests are set up
+        - [x] learn how tests are set up
         - [ ] write tests in `MarkdownPod.spec.ts`
+            - [ ] additional tests using other setup hooks
     - [ ] cleanup
     - [ ] read up on conventional commits
     - [ ] commit
@@ -69,13 +72,16 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [ ] checkbox styling
         - [ ] anchor styling
 
-### [cerebrarium.garden](https://cerebrarium.garden)
+- [ ] feature request write-up for configurable root node
+
+## [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] think about ways to do daily publishing
 - [ ] look into 11ty theming
 - [ ] hide certain hierarchies from navbar (e.g. notes)
-- [ ] refactor note hierarchy in [[cerebrarium.dev]]
+- [x] refactor note hierarchy in [[cerebrarium.dev]]
+- [x] refactor entire note to branch out from cerebrarium
 
-### [markhyunikchoi.com](https://markhyunikchoi.com)
+## [markhyunikchoi.com](https://markhyunikchoi.com)
 - housekeeping
     - [ ] merge separate post tag index components into one layout components
     - [ ] refactor image related components
@@ -91,7 +97,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] dark mode
 - [ ] port to 11ty?
     - this is a lot of work. possibly a complete rework...
-
 
 ## modular synthesis
 - [ ] plan focused sessions for learning currently owned modules
@@ -116,7 +121,12 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - Veils build (second)
     - [ ] sand down panel
     - [ ] build
-- [ ] plan next build
+- [x] plan next build
+- Kinks build
+    - [ ] compile IBOM
+    - [ ] source components
+    - [ ] build
+    - [ ] notes
 - Tool notes
     - [ ] soldering iron
     - [ ] reflow plate
@@ -126,3 +136,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] plan out Accidental Contraptions Q1 roadmap
 - [ ] notes on model painting
     - [ ] Ma.K
+- [ ] doodle stickers
+    - [ ] research different sticker printing methods
+
+## plants
+- [ ] start logging plants.

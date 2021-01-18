@@ -22,11 +22,5 @@
         "scope": "markdown,yaml",
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
-    },
-    "link": {
-        "prefix": "pl",
-        "scope": "markdown,yaml",
-        "body": "[$1]($CLIPBOARD)",
-        "description": "clipboard into markdown link"
     }
 }
