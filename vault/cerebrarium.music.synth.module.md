@@ -2,7 +2,7 @@
 id: f96d0a8a-357c-498e-a7cb-d41ce277e281
 title: Module
 desc: ''
-updated: 1609672683938
+updated: 1611058107408
 created: 1609644505582
 ---
 # Modules
@@ -25,7 +25,7 @@ created: 1609644505582
 - [[4MS Rotating Clock Divider|cerebrarium.music.synth.module.rcd]]
 - [[Mutable Instruments Veils|cerebrarium.music.synth.module.veils]]
 - [[Monome Teletype|cerebrarium.music.synth.module.teletype]]
+- [[Mutable Instrument Kinks|cerebrarium.music.synth.module.kinks]]
 - Mutable Instruments Plaits
 - Mutable Instruments Stages
-- Mutable Instrument Kinks
 - Extralife Instruments Super Sixteen

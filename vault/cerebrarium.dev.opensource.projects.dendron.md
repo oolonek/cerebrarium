@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1610926596561
+updated: 1611099626701
 created: 1609631769094
 ---
 
@@ -13,6 +13,21 @@ created: 1609631769094
 
 ## Useful links
 [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+
+## Commit conventions
+
+- follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) with the following tags
+- categories:
+    - feat: feature - introduce new functionality
+    - enhance: enhancement - improve existing functionality
+    - fix: make something not broken
+    - chore: backend improvements
+    - spike: not complete commi
+
+## Setup
+
+- Do this every time you pull in from upstream
+    - [build repo](https://dendron.so/notes/64f0e2d5-2c83-43df-9144-40f2c68935aa.html#3-build-repo)
 
 ## Notes
 
