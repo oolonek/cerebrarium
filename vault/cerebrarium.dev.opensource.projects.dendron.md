@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1611099626701
+updated: 1611153024063
 created: 1609631769094
 ---
 
@@ -126,3 +126,14 @@ Testing in Dendron
 - If you want to be more careful, you can also test the plugin itself at this point.
     - The above step tests every single package that is not a plugin.
     - To run tests for the plugin itself, run `Extension Integ Tests (plugin-core)`, which can be found in the Run pane.
+
+**2021-01-20 9:19 PM**
+- Some test cases to think about for `MarkdownPublishPod`
+    - empty note
+    - note with wikilink
+    - note with relative link
+- What is `MarkdownPublishPod` (and the new markdown parser) actually doing?
+    - get note, given the file name.
+    - get processor (?)
+    - process given representation of a file(note.body) as configured on the processor
+    

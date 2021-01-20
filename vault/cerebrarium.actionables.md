@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1611058027471
+updated: 1611153725293
 created: 1608877391650
 ---
 
@@ -52,19 +52,17 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] ~~swap out old md parser~~ kevin did this for the pairing session
     - [ ] add test case for `MarkdownPublishPod`
         - [x] learn how tests are set up
-        - [ ] write tests in `MarkdownPod.spec.ts`
-            - [ ] additional tests using other setup hooks
+        - [x] write tests in `MarkdownPod.spec.ts`
+            - [x] additional tests using other setup hooks
+        - [ ] think about more test cases relevant to `MarkdownPublishPod`
+        - [ ] add `ENGINE_HOOKS` on some of those test cases
     - [ ] cleanup
     - [ ] read up on conventional commits
     - [ ] commit
     - [ ] push, PR
 - [ ] familiarize Dendron internals
-    - [ ] pods
-        - [ ] take a look at 
-            - [ ] `MarkdownPods.ts`
-            - [ ] `basev2.ts`
-            - [ ] `markdown.ts`
-            - [ ] `utilsv2.ts`
+    - [ ] how to add `ENGINE_HOOKS` for mocking new test cases
+    - [ ] figure out what procs are? [unifiedjs](https://unifiedjs.com/)
     
 - [ ] custom css for markdown preview
     - [ ] tweak css
