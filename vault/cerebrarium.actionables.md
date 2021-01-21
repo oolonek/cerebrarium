@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1611153725293
+updated: 1611237515352
 created: 1608877391650
 ---
 
@@ -28,15 +28,21 @@ created: 1608877391650
 2. This list is not for every day chores or tasks that are necessary for basic survival.
     - Keep this in physical daily note
 3. This list is not for work related tasks.
+4. Ideally, life should be full of interesting stuff that this list never depletes.
 
 ## inbox
 
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
 
-- [ ] work on sleep notes
-- [ ] look into Phillps Hue
-    - [ ] lamp for bedroom
+- [ ] look into carbon steel woks
+- [ ] repo for dotfiles?
+
+## self(meta)
+- [ ] sleep
+- [ ] learning
+- [ ] meditation
+- [ ] ideals
 
 ## learning
 - vim
@@ -50,16 +56,17 @@ Task that need more breaking down also belongs here until it becomes actionable.
 ### dendron
 - [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [ ] ~~swap out old md parser~~ kevin did this for the pairing session
-    - [ ] add test case for `MarkdownPublishPod`
+    - [x] add test case for `MarkdownPublishPod`
         - [x] learn how tests are set up
         - [x] write tests in `MarkdownPod.spec.ts`
             - [x] additional tests using other setup hooks
+    - [x] cleanup
+    - [x] read up on conventional commits
+    - [x] commit
+    - [x] push, PR
+    - [ ] change requested [#458](https://github.com/dendronhq/dendron/pull/458)
         - [ ] think about more test cases relevant to `MarkdownPublishPod`
         - [ ] add `ENGINE_HOOKS` on some of those test cases
-    - [ ] cleanup
-    - [ ] read up on conventional commits
-    - [ ] commit
-    - [ ] push, PR
 - [ ] familiarize Dendron internals
     - [ ] how to add `ENGINE_HOOKS` for mocking new test cases
     - [ ] figure out what procs are? [unifiedjs](https://unifiedjs.com/)
@@ -78,6 +85,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] hide certain hierarchies from navbar (e.g. notes)
 - [x] refactor note hierarchy in [[cerebrarium.dev]]
 - [x] refactor entire note to branch out from cerebrarium
+- [ ] try to incorporate block references?
 
 ## [markhyunikchoi.com](https://markhyunikchoi.com)
 - housekeeping
@@ -114,7 +122,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [ ] power drill
     - [ ] processing surface
 - Teletype build
-    - [ ] order substitute socket for OLED screen
+    - [x] order substitute socket for OLED screen
     - [ ] finish building
 - Veils build (second)
     - [ ] sand down panel
@@ -139,3 +147,5 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ## plants
 - [ ] start logging plants.
+    - [ ] lithops
+        - how to kill them.
