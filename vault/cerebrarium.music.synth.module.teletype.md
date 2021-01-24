@@ -2,7 +2,7 @@
 id: 30fb9719-ad12-4d46-af75-6d357e348a92
 title: Teletype
 desc: ''
-updated: 1610864426582
+updated: 1611409307860
 created: 1609508666974
 ---
 # Monome Teletype
@@ -129,3 +129,38 @@ created: 1609508666974
 **2021-01-17 3:18 PM**
 - I will have to add the proper headers for the screens in my next mouser cart.
 - I have the Fade, Kinks, Plaits, Stages left to build, so I'll choose one and order the components with the headers I need.
+
+**2021-01-22 9:56 PM**
+- Replacement headers arrived
+- Desoldering original
+
+**2021-01-22 10:59 PM**
+- Finished desoldering original
+- It was a pain in the ass
+- Preci-dip 20 pin connectors are a pain in the fucking ass to desolder
+- CHECK LEVELS OF ANY OLED SCREEN WITH THE PANELS BEFORE SOLDERING PIN HEADERS
+- CHECK LEVELS OF ANY OLED SCREEN WITH THE PANELS BEFORE SOLDERING PIN HEADERS
+- CHECK LEVELS OF ANY OLED SCREEN WITH THE PANELS BEFORE SOLDERING PIN HEADERS
+
+**2021-01-23 1:03 AM**
+- Tried flashing on a Mac. Did not work.
+- Suspected faulty cables (USB-C to A). Was not the case.
+- Switched to Windows. Worked first time (USB-A to A).
+- Soldered the jacks and potentiometer.
+- Realized the screws are too short to reach from the panel to the spacer.
+    - Will have to be like this for now until I order another batch of components
+- CV 3's LED is always on. but it's too late and I'm tired.
+
+**2021-01-23 10:07 PM**
+- Reflowed CV 3's LED and the components that are in series to it.
+- It is still always on, but when I connect the USB keyboard to the module, it partially works
+    - Unlike other CV LEDs, it's either ON or OFF, it doesn't go from dim to full brightness depending on the voltage
+- Chipped a bit of the LED off while touching it up.
+- I don't know enough about electronics to troubleshoot this on my own. Nor do I have the energy to do this today, so I will leave it here.
+
+**2021-01-23 10:05 PM**
+- With the help of a friend, narrowed it down to a problem where CV output 3 is recieving high voltage.
+- When given 1 volts as an output, it was receiving 11.9V, thus making it turn brighter than others.
+- Also, the power switch for USB (U1) burned. My first magic smoke!
+    - I guess it couldn't handle my keyboard.
+- I should order replacement for U1 and a cheap usb keyboard.

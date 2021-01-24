@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1611237515352
+updated: 1611479541200
 created: 1608877391650
 ---
 
@@ -123,7 +123,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] processing surface
 - Teletype build
     - [x] order substitute socket for OLED screen
-    - [ ] finish building
+    - [ ] order replacement U1
+    - [ ] troubleshoot CV 3 output voltage.
 - Veils build (second)
     - [ ] sand down panel
     - [ ] build
@@ -132,6 +133,10 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] ~~R20, R21, R25, R32, R37~~
     - [x] source components
     - [ ] build
+    - [ ] notes
+- Fade build
+    - [ ] source components
+    - [ ] compile IBOM
     - [ ] notes
 - Tool notes
     - [ ] soldering iron
