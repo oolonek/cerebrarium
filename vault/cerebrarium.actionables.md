@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1611479541200
+updated: 1611766257515
 created: 1608877391650
 ---
 
@@ -51,10 +51,9 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] try following [Stephen's workflow](https://discord.com/channels/717965437182410783/717965437182410786/798338552761024552)
 
 ## open source
-- [ ] read up on triaging
 
 ### dendron
-- [ ] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
+- [x] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
     - [ ] ~~swap out old md parser~~ kevin did this for the pairing session
     - [x] add test case for `MarkdownPublishPod`
         - [x] learn how tests are set up
@@ -65,12 +64,18 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [x] commit
     - [x] push, PR
     - [ ] change requested [#458](https://github.com/dendronhq/dendron/pull/458)
-        - [ ] think about more test cases relevant to `MarkdownPublishPod`
-        - [ ] add `ENGINE_HOOKS` on some of those test cases
-- [ ] familiarize Dendron internals
-    - [ ] how to add `ENGINE_HOOKS` for mocking new test cases
+        - [x] think about more test cases relevant to `MarkdownPublishPod`
+        - [x] add `ENGINE_HOOKS` on some of those test cases
+        - [x] add more tests
+    - waiting for review.
+- [ ] pick up another `size.small`
+- familiarize Dendron internals
+    - [x] how to add `ENGINE_HOOKS` for mocking new test cases
     - [ ] figure out what procs are? [unifiedjs](https://unifiedjs.com/)
-    
+- familiarize VSCode internals
+    - [ ] input boxes
+    - [ ] quick picks
+    - [ ] webview
 - [ ] custom css for markdown preview
     - [ ] tweak css
         - [ ] codeblock styling
@@ -83,9 +88,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] think about ways to do daily publishing
 - [ ] look into 11ty theming
 - [ ] hide certain hierarchies from navbar (e.g. notes)
-- [x] refactor note hierarchy in [[cerebrarium.dev]]
-- [x] refactor entire note to branch out from cerebrarium
 - [ ] try to incorporate block references?
+- [ ] fix old ref syntax to new one
 
 ## [markhyunikchoi.com](https://markhyunikchoi.com)
 - housekeeping
@@ -110,6 +114,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [ ] kick drum
     - [ ] 0-coast
         - [ ] each section
+- [ ] expand concept notes
 
 ## DIY
 - [ ] learn how to order PCB from JLCPCB
@@ -128,7 +133,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - Veils build (second)
     - [ ] sand down panel
     - [ ] build
-- [x] plan next build
 - Kinks build
     - [ ] ~~R20, R21, R25, R32, R37~~
     - [x] source components
@@ -144,6 +148,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] tweezers
 
 ## art
+- [ ] reflection on art practice
 - [ ] plan out Accidental Contraptions Q1 roadmap
 - [ ] notes on model painting
     - [ ] Ma.K

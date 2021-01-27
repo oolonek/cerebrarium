@@ -2,7 +2,7 @@
 id: f96d0a8a-357c-498e-a7cb-d41ce277e281
 title: Module
 desc: ''
-updated: 1611501641346
+updated: 1611528383328
 created: 1609644505582
 ---
 # Modules
@@ -26,6 +26,7 @@ created: 1609644505582
 - [[Mutable Instruments Veils|cerebrarium.music.synth.module.veils]]
 - [[Monome Teletype|cerebrarium.music.synth.module.teletype]]
 - [[Mutable Instrument Kinks|cerebrarium.music.synth.module.kinks]]
+- [[Antumbra FADE|cerebrarium.music.synth.module.fade]]
 - Mutable Instruments Plaits
 - Mutable Instruments Stages
 - Extralife Instruments Super Sixteen

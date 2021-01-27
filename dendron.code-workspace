@@ -25,7 +25,7 @@
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "telemetry.enableTelemetry": false,
         "markdown-preview-enhanced.previewTheme": "none.css",
-        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css"
+        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
     },
     "extensions": {
         "recommendations": [
